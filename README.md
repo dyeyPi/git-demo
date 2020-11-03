@@ -7,4 +7,5 @@
 ## Conclusion
 	Git is fun!
 ## How To Contribute
+	Please FORK this repo. 
 	Revise accordingly!
