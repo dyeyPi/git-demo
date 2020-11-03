@@ -10,3 +10,4 @@ sandwich line 5
 	askpass = 
 OK
 EXIT
+VERSION2
