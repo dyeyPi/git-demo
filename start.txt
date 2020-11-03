@@ -1,2 +1,7 @@
 Test demo
 2nd line
+removed 
+[credential]
+	helper = manager-core
+[core]
+	askpass = 
