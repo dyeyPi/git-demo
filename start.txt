@@ -1,6 +1,9 @@
 Test demo
 2nd line
 removed 
+
+sandwich line 5
+
 [credential]
 	helper = manager-core
 [core]
